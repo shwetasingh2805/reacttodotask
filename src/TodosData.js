@@ -3,27 +3,27 @@ import react from 'react'
 const todosData = [
     {
         id: 1,
-        text: "Take out the trash",
+        text: "Thing1",
         completed: true
     },
     {
         id: 2,
-        text: "Grocery shopping",
+        text: "Thing2",
         completed: false
     },
     {
         id: 3,
-        text: "Clean gecko tank",
+        text: "Thing3",
         completed: false
     },
     {
         id: 4,
-        text: "Mow lawn",
+        text: "Thing4",
         completed: true
     },
     {
         id: 5,
-        text: "Catch up on Arrested Development",
+        text: "Thing5",
         completed: false
     }
 ]
